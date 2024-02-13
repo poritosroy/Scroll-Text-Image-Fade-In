@@ -1,0 +1,30 @@
+<section class="philosophie">
+  <div class="wrapper">
+    <div class="indicators">
+      <div class="indicator"></div>
+      <div class="indicator"></div>
+      <div class="indicator"></div>
+    </div>
+    <div class="point">
+      <article>
+        <p>Introducing GOLD</p>
+        <h1>Medal winning secrets for you.</h1>
+      </article>
+      <img src="https://images.squarespace-cdn.com/content/65bfecfd97768c15b1ffb522/7dba7812-c33d-4f0d-b48b-5ac84c747012/Group+1000003995.png?content-type=image%2Fpng" alt="random"  width="500" height="500" />
+    </div>
+    <div class="point">
+      <article>
+        <p>Introducing GOLD</p>
+        <h1>Medal winning secrets for you.</h1>
+      </article>
+      <img src="https://images.squarespace-cdn.com/content/65bfecfd97768c15b1ffb522/c7820478-fc32-44a2-97a9-75b6aa25736b/dffdgfdd.png?content-type=image%2Fpng" alt="random"  width="500" height="500" />
+    </div>
+    <div class="point">
+      <article>
+        <p>Introducing GOLD</p>
+        <h1>Medal winning secrets for you.</h1>
+      </article>
+      <img src="https://images.squarespace-cdn.com/content/65bfecfd97768c15b1ffb522/7dba7812-c33d-4f0d-b48b-5ac84c747012/Group+1000003995.png?content-type=image%2Fpng" alt="random"  width="500" height="500" />
+    </div>
+  </div>
+</section>
